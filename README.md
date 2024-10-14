@@ -40,5 +40,4 @@
     - 사용 기법 :
       - 크롤링 : 셀레니움, bs4
       - 빈도 분석 : 위와 같음
-        - 링크 : https://github.com/w00jji/Unstructured_data_lr/tree/main/%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%A7%88%EC%9D%B4%EB%8B%9D1014_(%EB%B9%88%EB%8F%84%EB%B6%84%EC%84%9D)/%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC_%EB%B6%84%EC%84%9D
-     
+        - [링크](https://github.com/w00jji/Unstructured_data_lr/tree/main/%ED%85%8D%EC%8A%A4%ED%8A%B8_%EB%A7%88%EC%9D%B4%EB%8B%9D1014_(%EB%B9%88%EB%8F%84%EB%B6%84%EC%84%9D)/%EB%89%B4%EC%8A%A4%EA%B8%B0%EC%82%AC_%EB%B6%84%EC%84%9D)
